@@ -16,6 +16,8 @@ La adaptación organiza el material para facilitar la práctica. Las notas de re
 
 Abre la aplicación y elige una práctica en **Tu recorrido**. **Repaso** vuelve sobre tus errores y respuestas programadas; **Diccionario** permite buscar en ambos idiomas. En **Taller**, elige un verbo, una persona y un tiempo; cambiar de verbo conserva el tiempo elegido. Puedes consultar su tabla y practicar cualquiera de las formas. **Guía del curso** reúne las explicaciones y referencias.
 
+En **Taller → Empezar práctica mixta**, un solo clic prepara 10 retos aleatorios de conjugación, posesión y sufijos. Las tres secciones tienen una presencia equilibrada, con palabras distintas dentro de cada sección y los tres tiempos verbales. Cada pregunta conserva sus pistas, explicación y fuente. Los errores vuelven una vez para reforzarlos; al terminar puedes repetir los pendientes o elegir **Otra mezcla de 10 retos**. **Guardar y salir** permite retomar la sesión desde el taller o el recorrido.
+
 El taller conserva la tabla de `llank'ay` (C02, p. 30) y aplica su modelo a otras 37 bases documentadas en los niveles 1 y 2. Estas formas se identifican como aplicaciones didácticas. Se respeta el pasado en `-ra-`, ambas variantes del futuro incluyente y la coincidencia entre presente y futuro de segunda persona. Las bases con grafía o equivalencia pendiente de revisión se mantienen fuera del taller.
 
 **Posesión** permite elegir entre 28 palabras del curso, conservar a la persona poseedora al cambiar de base y consultar las siete formas con su significado. La tabla de `wasi` (C06, p. 14) se conserva como documentada; las demás se identifican como aplicaciones del modelo, con referencias separadas para la base y la regla.
