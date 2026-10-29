@@ -2,6 +2,8 @@
 
 Herramienta de práctica de quechua en español: 18 prácticas, 90 retos, diccionario de Nivel 1, taller de conjugación, posesión y sufijos, y guía de Nivel 2. El taller ofrece 38 verbos del curso en pasado, presente y futuro, 28 sustantivos para practicar posesión con las siete personas, y 53 ejemplos de sufijos con contexto y referencias.
 
+La identidad visual usa marrón, dorado y rojo oscuro, con una silueta de llama en la marca, la cabecera móvil y el icono del navegador.
+
 ## Materiales y derechos
 
 Materiales de aprendizaje: Academia Mayor de la Lengua Quechua. Los derechos sobre los materiales corresponden a la Academia Mayor de la Lengua Quechua. Esta adaptación facilita su práctica; no atribuye la autoría de los contenidos a quien la comparte.
